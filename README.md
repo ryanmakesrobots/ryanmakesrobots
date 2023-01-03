@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ryanmakesrobots
-- 👀 I’m interested in Data; Web Applications; Embedded Systems and Distributed Systems
-- 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: using the email address in my profile.
+Hey, I'm Ryan. I'm an engineer and professional Google user. Welcome to my digital brain, here I commit to the public domain my inner most thoughts and results of my manic Googling to create things that I think might be interesting to other people.
 
 <!---
 ryanmakesrobots/ryanmakesrobots is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
